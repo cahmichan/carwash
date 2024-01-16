@@ -1,0 +1,3 @@
+﻿  Finished 402.cpp
+C:\Users\acer\source\repos\Finished 402\Finished 402\Finished 402.cpp(382,12): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Finished 402.vcxproj -> C:\Users\acer\source\repos\Finished 402\x64\Debug\Finished 402.exe
